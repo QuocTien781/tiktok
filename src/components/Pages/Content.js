@@ -1,6 +1,4 @@
 function Content() {
-    return (
-        <h1> Home Page</h1>
-    )
+    return <h1> Home Page</h1>;
 }
-export default Content
+export default Content;
